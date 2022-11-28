@@ -1,2 +1,2 @@
 # Portfolio
-Repositório em formato de portólio. 
+Repositório em formato de portfólio. 
